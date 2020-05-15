@@ -1,7 +1,5 @@
 import sys
 import requests
-import os
-import math
 
 print(sys.version)
 print(sys.executable)
